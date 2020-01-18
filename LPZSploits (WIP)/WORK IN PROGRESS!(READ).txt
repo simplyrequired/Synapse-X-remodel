@@ -1,0 +1,7 @@
+*Run with all .dll files or it will not work
+*Download updates from the bootstrapper and find the .exe file in 'Exploit' folder
+*Drag the .exe file with the .dll files or it will not work
+
+There would be some(or a lot) of bugs, please report the bugs to me.
+Contact me on Discord LowerPlayz#8526
+Or join my discord server 'https://discord.gg/nSKdQqQ'

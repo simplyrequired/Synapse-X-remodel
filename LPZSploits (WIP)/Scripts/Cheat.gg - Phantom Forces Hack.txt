@@ -1,0 +1,3 @@
+-- Distributed by Cheat.gg 
+
+loadstring(game:HttpGet("https://pastebin.com/raw/aN08cBUi", true))()
